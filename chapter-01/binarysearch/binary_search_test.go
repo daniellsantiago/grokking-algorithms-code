@@ -17,7 +17,7 @@ func TestSearchIndex(t *testing.T) {
 		want := -1
 
 		if got != want {
-			t.Errorf("got %d want %d", got, want)
+			t.Errorf("got %d wanted %d", got, want)
 		}
 	})
 }
