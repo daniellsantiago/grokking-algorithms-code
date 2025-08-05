@@ -1,2 +1,2 @@
 # grokking-algorithms-code
-My version of the algorithms explained at the Grokking Algorithms book in Golang
+Algorithms from Grokking Algorithms book written in Python
